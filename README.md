@@ -7,3 +7,6 @@ How to use
 ----------
 
 Paste or enter a hexadecimal value in the topmost field. The binary representation will show up just below it. To display the value stored in a subrange of the binary representation just mark a range by clicking and dragging over the binary string.
+
+![hexgui screenshot](screenshot.png "hexgui in action")
+
