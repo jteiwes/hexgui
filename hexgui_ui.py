@@ -5,7 +5,7 @@
 # Created: Tue Jan 14 12:48:00 2014
 #      by: PyQt4 UI code generator 4.10
 #
-# WARNING! All changes made in this file will be lost!
+# WARNING! All changes made in this file will be lost! Pfluck!!
 
 from PyQt4 import QtCore, QtGui
 
